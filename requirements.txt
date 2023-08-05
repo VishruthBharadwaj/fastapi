@@ -1,0 +1,4 @@
+uvicorn
+fastapi
+postgresql
+psycopg2-binary
